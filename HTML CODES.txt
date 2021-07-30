@@ -1,0 +1,3 @@
+b=Bold,         h=front size(there are 6 front size:h1-h6),              p:paragraph,            a:ancore(web link adding)
+img=images adding.(1.online image=open image in a new tab and copy URL.2.own image or pc image=left up view then file name extencion on{coding web ar picture ak drive e thakte hobe}. 
+ol=order list,li=list item(ol ar li akshate likhte hoy),             button=button creat,    input=right something in a box
